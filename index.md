@@ -1,15 +1,10 @@
-Syntax highlighted code block
+#Hello!, This is my homepage!
+**[Brave](search.brave.com)**
+**[Wise](wise.wesleycollege.net)**
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+##HOMEWORK COMING UP:
+**-PAGE 39-40 FOR SCIENCE**
+**-JAPANESE TEST WEDSDAY (6 part 1)**
+**-JAPANESE TEST FRIDAY (6 part 2)**
+**-WRITE PARAGRAPH OF CREATIVE WRITING FOR ENGLISH**
+**-DO SCIENCE CONTEST FORM, DO MATHS COMPETITION PRACTISE**
