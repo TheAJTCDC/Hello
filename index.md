@@ -5,7 +5,7 @@
 **[Wise](https://wise.wesleycollege.net)**
 
 ## HOMEWORK COMING UP:
-- [X] **PAGE 39-40 FOR SCIENCE**
+- [ ] **PAGE 39-40 FOR SCIENCE**
 - [ ] **JAPANESE TEST WEDSDAY (6 part 1)**
 - [ ] **JAPANESE TEST FRIDAY (6 part 2)**
 - [ ] **WRITE PARAGRAPH OF CREATIVE WRITING FOR ENGLISH**
