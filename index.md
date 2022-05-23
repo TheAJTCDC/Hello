@@ -1,3 +1,4 @@
+  <body style="background-color:#1c87c9;">
 # Hello!, This is my homepage!
 
 **[Brave](search.brave.com)**
@@ -11,4 +12,4 @@
 - [ ] **WRITE PARAGRAPH OF CREATIVE WRITING FOR ENGLISH**
 - [ ] **DO SCIENCE CONTEST FORM, DO MATHS COMPETITION PRACTISE**
 
-<h1> test </h1>
+ </body>
