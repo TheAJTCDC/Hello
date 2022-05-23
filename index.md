@@ -1,4 +1,4 @@
-  <body style="background-color:#1c87c9;">
+<body style="background-color:#1c87c9;">
 # Hello!, This is my homepage!
 
 **[Brave](search.brave.com)**
@@ -11,5 +11,4 @@
 - [ ] **JAPANESE TEST FRIDAY (6 part 2)**
 - [ ] **WRITE PARAGRAPH OF CREATIVE WRITING FOR ENGLISH**
 - [ ] **DO SCIENCE CONTEST FORM, DO MATHS COMPETITION PRACTISE**
-
- </body>
+</body>
