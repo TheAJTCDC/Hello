@@ -1,10 +1,10 @@
-#Hello!, This is my homepage!
+# Hello!, This is my homepage!
 
 **[Brave](search.brave.com)**
 
 **[Wise](wise.wesleycollege.net)**
 
-##HOMEWORK COMING UP:
+## HOMEWORK COMING UP:
 - [ ] **PAGE 39-40 FOR SCIENCE**
 - [ ] **JAPANESE TEST WEDSDAY (6 part 1)**
 - [ ] **JAPANESE TEST FRIDAY (6 part 2)**
