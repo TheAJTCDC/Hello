@@ -1,9 +1,9 @@
 <body>
 # Hello! This is my homepage!
 
-**[Brave Search](search.brave.com)**
+**[Brave Search](https://search.brave.com)**
 
-**[Wise](wise.wesleycollege.net)**
+**[Wise](https://wise.wesleycollege.net)**
 
 ## HOMEWORK COMING UP:
 - [ ] **PAGE 39-40 FOR SCIENCE**
