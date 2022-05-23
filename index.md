@@ -1,7 +1,7 @@
-<body style="background-color:#1c87c9;">
-# Hello!, This is my homepage!
+<body>
+# Hello! This is my homepage!
 
-**[Brave](search.brave.com)**
+**[Brave Search](search.brave.com)**
 
 **[Wise](wise.wesleycollege.net)**
 
