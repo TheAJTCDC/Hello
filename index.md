@@ -1,4 +1,3 @@
-<body>
 # Hello! This is my homepage!
 
 **[Brave Search](https://search.brave.com)**
@@ -11,4 +10,4 @@
 - [ ] **JAPANESE TEST FRIDAY (6 part 2)**
 - [ ] **WRITE PARAGRAPH OF CREATIVE WRITING FOR ENGLISH**
 - [ ] **DO SCIENCE CONTEST FORM, DO MATHS COMPETITION PRACTISE**
-</body>
+
