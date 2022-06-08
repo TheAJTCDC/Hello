@@ -4,10 +4,11 @@
 
 **[Wise](https://wise.wesleycollege.net)**
 
+**[Religious tree enhanced with AI](https://itsmorethantech.github.io/worldreligiontree)**
+
 ## HOMEWORK COMING UP:
-- [ ] **PAGE 39-40 FOR SCIENCE**
-- [ ] **JAPANESE TEST WEDSDAY (6 part 1)**
-- [ ] **JAPANESE TEST FRIDAY (6 part 2)**
-- [ ] **WRITE PARAGRAPH OF CREATIVE WRITING FOR ENGLISH**
-- [ ] **DO SCIENCE CONTEST FORM, DO MATHS COMPETITION PRACTISE**
+- [ ] **EP - SCIENCE/ENGLISH**
+- [ ] **JAPANESE PRACTISE**
+- [ ] **DO MATHS COMPETITION QUESTIONS**
+- [ ] *other homework coming up...*
 
