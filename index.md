@@ -8,7 +8,8 @@
 
 ## HOMEWORK COMING UP:
 - [ ] **EP - SCIENCE/ENGLISH**
-- [ ] **JAPANESE PRACTISE**
+- [ ] **JAPANESE PRACTISE - ASSESMENT 14th & 17th**
 - [ ] **DO MATHS COMPETITION QUESTIONS**
+- [ ] **TOPIC TEST: FRIDAY 17th, MATTER**
 - [ ] *other homework coming up...*
 
